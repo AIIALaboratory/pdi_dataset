@@ -1,1 +1,2 @@
 # pdi_dataset
+To access the datasets created and assembled by Aristotle University of Thessaloniki, please send an email to Prof. Ioannis Pitas at pitas@csd.auth.gr. Use “SIMAR PDI – Dataset Availability” as the subject of your email to request FTP credentials for downloading the datasets.
